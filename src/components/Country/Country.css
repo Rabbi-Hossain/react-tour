@@ -1,0 +1,20 @@
+.style-design{
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card-design{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+   
+}
+
+.animation{
+    background-color: bisque;
+}
+.flags-style img{
+    width: 100px;
+}
